@@ -88,7 +88,7 @@ TensorCrete is forged from the most robust libraries in the Python ecosystem:
 ### Option A: The Installer (Recommended)
 Download the pre-compiled, professional installer from the **[Releases Page](https://github.com/MustafijRatul/tensorcrete/releases/latest)**.
 *   *Includes auto-updates, desktop shortcuts, and uninstaller.*
-
+[📄 Download User Manual (PDF)](https://github.com/MustafijRatul/tensorcrete/releases/download/v1.0/TensorCrete_User_Manual_v1.0.pdf)
 ### Option B: Run from Source
 If you are a developer, you can run the core engine locally:
 
