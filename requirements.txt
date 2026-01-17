@@ -1,0 +1,7 @@
+tensorflow
+opencv-python
+reportlab
+pillow
+pyside6
+qtawesome
+numpy<2.0.0
