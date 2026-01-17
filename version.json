@@ -1,0 +1,12 @@
+{
+    "version": "5.3 Ultimate",
+    "force_update": false,
+    "download_url": "https://github.com/MustafijRatul/tensorcrete/releases/latest",
+    "changelog": [
+        "Initial Launch of TensorCrete Ultimate Edition",
+        "Restored Premium Glass/Acrylic UI",
+        "Added Persistent Settings & History (JSON)",
+        "Enabled Drone Swarm Batch PDF Reporting",
+        "Implemented Thermal X-Ray Vision"
+    ]
+}
