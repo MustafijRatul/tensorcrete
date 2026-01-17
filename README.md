@@ -66,7 +66,7 @@ TensorCrete is forged from the most robust libraries in the Python ecosystem:
 
 ## 📸 Screenshots
 
-> *Add your screenshots here. Drag and drop images into the GitHub readme editor to generate URLs.*
+
 
 <div align="center">
   <table>
