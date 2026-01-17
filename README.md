@@ -105,7 +105,7 @@ pip install tensorflow opencv-python reportlab pillow pyside6 qtawesome
 # 4. Launch the Neural Core
 python app.py
 ```
-
+*"Note: The pre-trained .h5 model is available in the Releases section due to file size limits."*
 ---
 
 ## 🔮 Roadmap
