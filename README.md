@@ -75,8 +75,8 @@ TensorCrete is forged from the most robust libraries in the Python ecosystem:
       <td align="center"><b>Drone Batch Processor</b></td>
     </tr>
     <tr>
-      <td><img src="https://via.placeholder.com/400x250/111/000?text=Dashboard+Preview" width="400" /></td>
-      <td><img src="https://via.placeholder.com/400x250/111/000?text=Batch+Mode+Preview" width="400" /></td>
+      <td><img src="https://github.com/MustafijRatul/tensorcrete/blob/main/Dashboard_Single_Scope.png" width="400" /></td>
+      <td><img src="https://github.com/MustafijRatul/tensorcrete/blob/main/Dashboard_Drone_Swarm.png" width="400" /></td>
     </tr>
   </table>
 </div>
