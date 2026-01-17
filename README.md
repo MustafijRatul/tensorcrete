@@ -136,5 +136,5 @@ python app.py
 ---
 
 <div align="center">
-  <sub>Built with ❤️ and excessive amounts of Coffee in Bangladesh.</sub>
+  <sub>Thank you for visiting this page</sub>
 </div>
