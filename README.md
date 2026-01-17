@@ -3,7 +3,7 @@
   <img src="icon.png" alt="TensorCrete Logo" width="140" height="140" />
 
   # T E N S O R C R E T E
-  ### ULTIMATE EDITION v5.3
+  ### ULTIMATE EDITION v1.0
 
   **The Future of Autonomous Structural Intelligence**
 
